@@ -2,8 +2,11 @@
 <img width="280" alt="image" src="https://github.com/Jonnnnnah/Hackintosh-Gigabyte-B760M-Aorus-Elite-AX-13600K-6600xt/assets/56213419/e487a89a-af7a-4b4a-a811-65eb42ac4856">
 
 OpenCore 0.9.5
+
 Macpro 7,1
+
 需要自己生成 SMIBIOS
+
 这个 EFI 适用于 macOS Sonoma
 
 wifi 蓝牙驱动正常
