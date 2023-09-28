@@ -6,8 +6,8 @@ OpenCore 0.9.5
 Macpro 7,1
 
 需要自己生成 SMIBIOS
-
-这个 EFI 适用于 macOS Sonoma
+[
+EFI 适用于 MacOS Sonoma/Ventura，请按需下载，也可以去我的[博客](https://www.jsom.top/)下载
 
 wifi 蓝牙驱动正常
 睡眠唤醒应该正常（未测试，由于我弄的 EFI 都只能唤醒一次，因此睡眠直接被我关掉了，懒得试）
@@ -18,11 +18,13 @@ wifi 蓝牙驱动正常
 刚升级 Sonoma，只碰到了 Wi-Fi 问题（已更新最新驱动解决，可能存在 bug，等正式版更新）其他暂未测试
 非常感谢 [zxystd](https://github.com/OpenIntelWireless/itlwm) 等大佬对 Intel 无线网卡的适配做出的努力，感谢
 
+
+
 ##This EFI is for the MacOS Sonoma
 
 SMiBIOS needs to be generated manually
 
-This EFI is compatible with macOS Sonoma
+This EFI is compatible with MacOS Sonoma/Ventura，you can also download the EFI on my [Blog](https://www.jsom.top/)
 
 WiFi and Bluetooth drivers work normally
 
