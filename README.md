@@ -20,7 +20,7 @@ wifi 蓝牙驱动正常
 
 
 
-##This EFI is for the MacOS Sonoma
+##This EFI is for the MacOS Sonoma##
 
 SMiBIOS needs to be generated manually
 
